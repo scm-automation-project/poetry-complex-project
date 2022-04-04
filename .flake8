@@ -1,0 +1,5 @@
+[flake8]
+max-line-length = 88
+
+# TODO: bump this down to 10 when nested_lookup is refactored/simplified.
+max-complexity = 13
